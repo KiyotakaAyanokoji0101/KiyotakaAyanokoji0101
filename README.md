@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working Private Projects on<br>👯 I’m looking to collaborate on Open Source & Exciting Projects<br>🤝 I’m looking for help with idk<br>🌱 I’m currently learning Java?C++<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## My Skill Set  
@@ -88,11 +88,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KiyotakaAyanokoji0101&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=KiyotakaAyanokoji0101&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
